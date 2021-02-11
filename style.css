@@ -28,9 +28,8 @@ div.head {
   border: 1px solid #B5B5B5;
 }
 div.head-menu {
-  padding: 12px;
+  padding: 0;
   margin: 10px;
-  background-color: #4F4FCD;
   color: #E2E2E2;
   font-size: 17px;
 }
