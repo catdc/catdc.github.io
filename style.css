@@ -55,7 +55,7 @@ a.head-menu-link:visited {
   font-size: 17px;
   text-decoration: none;
   cursor: pointer;
-  transition: 0.1s 0.01s all;
+  transition-duration: 0.2s;
 }
 a.head-menu-link:hover,
 a.head-menu-link:active {
