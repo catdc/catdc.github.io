@@ -34,6 +34,7 @@ div.head {
 img.head-logo {
   padding: 0;
   margin: 0 auto 8px auto;
+  text-align: center;
   display: block;
 }
 div.head-menu {
