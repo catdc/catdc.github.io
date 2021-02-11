@@ -55,7 +55,8 @@ a.head-menu-link:visited {
   font-size: 17px;
   text-decoration: none;
   cursor: pointer;
-  transition-duration: 0.2s;
+  transition-duration: 200ms;
+  transition-timing-function:	cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
 a.head-menu-link:hover,
 a.head-menu-link:active {
