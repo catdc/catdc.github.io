@@ -48,7 +48,7 @@ a.head-menu-link:focus,
 a.head-menu-link:link,
 a.head-menu-link:visited {
   padding: 7px 12px;
-  margin: 10px;
+  margin: 10px 6px;
   background-color: #25ACB3;
   color: #E2E2E2;
   font-size: 17px;
