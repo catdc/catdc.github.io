@@ -1,5 +1,9 @@
 body {
-  background-color: #A6A6A6;
+  background-color: #BCBCBC;
+  background-image: url('tile.png');
+  background-repeat: repeat repeat;
+  background-position: left top;
+  background-attachment: scroll;
   color: #000000;
   font-family: 'Georgia', 'Helvetica', 'Tahoma', 'Times New Roman', 'Times', sans-serif;
   font-size: 14px;
