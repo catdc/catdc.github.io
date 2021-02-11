@@ -89,6 +89,8 @@ h1 {
   font-size: 18px;
   margin: 0 auto 8px auto;
   vertical-align: middle;
+  min-width: 530px;
+  max-width: 1000px;
   text-align: center;
   font-weight: normal;
   background-color: #DEDEDE;
