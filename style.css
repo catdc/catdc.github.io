@@ -1,9 +1,5 @@
 body {
-  background-color: #BCBCBC;
-  background-image: url('tile.png');
-  background-repeat: repeat repeat;
-  background-position: left top;
-  background-attachment: scroll;
+  background-color: #E4E4E4;
   color: #000000;
   font-family: 'Georgia', 'Helvetica', 'Tahoma', 'Times New Roman', 'Times', sans-serif;
   font-size: 14px;
@@ -11,4 +7,8 @@ body {
   text-decoration: none;
   padding: 8px;
   margin: 0;
+}
+div.head {
+  padding: 6px;
+  margin: 4px auto;
 }
