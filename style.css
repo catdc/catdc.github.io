@@ -61,6 +61,22 @@ div.body {
   background-color: #FFFCED;
   border: 1px solid #FFF5BD;
 }
+a.general,
+a.general:focus,
+a.general:focus-within,
+a.general:link,
+a.general:visited {
+  color: #08CAE5;
+  font-weight: normal;
+  text-decoration: underline;
+  border: 0;
+  cursor: pointer;
+}
+a.general:hover,
+a.general:active {
+  color: #07A2B6;
+  text-decoration: none;
+}
 div.footer {
   margin: 4px 12px 0 12px;
   padding: 6px;
