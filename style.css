@@ -40,3 +40,6 @@ a.head-menu-link:hover,
 a.head-menu-link:active {
   background-color: #2323F2;
 }
+span.head-copy {
+  font-size: 16pt;
+}
