@@ -30,7 +30,7 @@ div.head {
 div.head-menu {
   padding: 12px;
   margin: 10px;
-  background-color: #0000CD;
+  background-color: #4F4FCD;
   color: #E2E2E2;
   font-size: 17px;
 }
@@ -40,7 +40,7 @@ a.head-menu-link:link,
 a.head-menu-link:visited {
   padding: 7px 12px;
   margin: 10px;
-  background-color: #0000CD;
+  background-color: #2525B3;
   color: #E2E2E2;
   font-size: 17px;
   text-decoration: none;
@@ -52,4 +52,13 @@ a.head-menu-link:active {
 }
 span.head-copy {
   font-size: 18px;
+}
+div.body {
+  padding: 6px;
+  margin: 4px 12px;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #FFFCED;
+  border: 1px solid #FFF5BD;
 }
