@@ -71,3 +71,7 @@ div.footer {
   color: #B5F3FA;
   border: 1px solid #212121;
 }
+div.footer-link {
+  margin: 8px auto;
+  padding: 0;
+}
