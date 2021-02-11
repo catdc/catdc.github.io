@@ -1,7 +1,11 @@
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('NotoSans-Regular.ttf');
+}
 body {
   background-color: #E4E4E4;
   color: #000000;
-  font-family: 'Georgia', 'Helvetica', 'Tahoma', 'Times New Roman', 'Times', sans-serif;
+  font-family: 'Noto Sans', 'Helvetica', 'Tahoma', 'Times New Roman', 'Times', sans-serif;
   font-size: 16px;
   font-weight: normal;
   text-decoration: none;
