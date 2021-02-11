@@ -2,9 +2,10 @@ body {
   background-color: #E4E4E4;
   color: #000000;
   font-family: 'Georgia', 'Helvetica', 'Tahoma', 'Times New Roman', 'Times', sans-serif;
-  font-size: 14pt;
+  font-size: 16px;
   font-weight: normal;
   text-decoration: none;
+  line-height: 20px;
   padding: 8px;
   margin: 0;
   cursor: default;
@@ -12,7 +13,7 @@ body {
 div.head {
   padding: 6px;
   margin: 4px 12px;
-  font-size: 18pt;
+  font-size: 20px;
   text-align: center;
   vertical-align: middle;
   background-color: #CFCFCF;
@@ -23,7 +24,7 @@ div.head-menu {
   margin: 10px;
   background-color: #0000CD;
   color: #E2E2E2;
-  font-size: 15pt;
+  font-size: 17px;
 }
 a.head-menu-link,
 a.head-menu-link:focus,
@@ -33,7 +34,7 @@ a.head-menu-link:visited {
   margin: 10px;
   background-color: #0000CD;
   color: #E2E2E2;
-  font-size: 15pt;
+  font-size: 17px;
   text-decoration: none;
   cursor: pointer;
 }
@@ -42,5 +43,5 @@ a.head-menu-link:active {
   background-color: #2323F2;
 }
 span.head-copy {
-  font-size: 16pt;
+  font-size: 18px;
 }
