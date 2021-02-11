@@ -62,11 +62,12 @@ div.body {
   border: 1px solid #FFF5BD;
 }
 div.footer {
-  margin: 4px 12px 4px 0;
+  margin: 4px 12px 0 12px;
   padding: 6px;
   font-size: 14px;
   text-align: center;
   vertical-align: middle;
   background-color: #3C3C3C;
+  color: #FAFAFA;
   border: 1px solid #212121;
 }
