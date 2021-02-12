@@ -123,10 +123,13 @@ div.footer-link {
 }
 ul {
   min-width: 200px;
-  max-width: 520px;
+  max-width: 320px;
   margin: 4px auto;
   padding: 2px;
+  text-align: center;
+  vertical-align: middle;
+  list-style-type: square;
 }
 li {
-  list-style-type: square;  
+  list-style-type: square;
 }
