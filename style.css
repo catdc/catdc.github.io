@@ -61,10 +61,10 @@ a.head-menu-link:hover,
 a.head-menu-link:active {
   background-color: #23A3A9;
   color: #DEDEDE;
-  box-shadow: -2px -2px 2px #CECECE,
-              -3px -2px 2px #C9C9C9,
-              2px 2px 1px #CFCFCF,
-              3px 2px 1px #C0C0C0;
+  box-shadow: -1px -1px 3px #4ECECE,
+              -2px -1px 3px #49C9C9,
+              1px 1px 3px #4FCFCF,
+              2px 1px 3px #40C0C0;
 }
 div.body {
   padding: 18px 6px;
