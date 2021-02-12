@@ -51,6 +51,7 @@ a.head-menu-link:visited {
   padding: 7px 16px;
   margin: 10px 6px;
   background-color: #25ACB3;
+  border: 1px solid #2B7B80;
   color: #E2E2E2;
   font-size: 17px;
   text-decoration: none;
@@ -61,10 +62,7 @@ a.head-menu-link:hover,
 a.head-menu-link:active {
   background-color: #1A7A7F;
   color: #FFFFFF;
-  box-shadow: -1px -1px 3px #4FCFCF,
-              -2px -2px 5px #40C0C0,
-              1px 1px 3px #4FCFCF,
-              2px 2px 5px #40C0C0;
+  border: 1px solid #1A4A4D;
 }
 div.body {
   padding: 18px 6px;
