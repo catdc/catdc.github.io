@@ -48,7 +48,7 @@ a.head-menu-link,
 a.head-menu-link:focus,
 a.head-menu-link:link,
 a.head-menu-link:visited {
-  padding: 7px 12px;
+  padding: 7px 16px;
   margin: 10px 6px;
   background-color: #25ACB3;
   color: #E2E2E2;
@@ -59,8 +59,8 @@ a.head-menu-link:visited {
 }
 a.head-menu-link:hover,
 a.head-menu-link:active {
-  background-color: #208287;
-  color: #FCFCFC;
+  background-color: #23A3A9;
+  color: #DEDEDE;
 }
 div.body {
   padding: 18px 6px;
