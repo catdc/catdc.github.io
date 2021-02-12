@@ -97,6 +97,22 @@ a.general:active {
   color: #07A2B6;
   text-decoration: none;
 }
+a.body,
+a.body:focus,
+a.body:focus-within,
+a.body:link,
+a.body:visited {
+  color: #0000E5;
+  font-weight: normal;
+  text-decoration: underline;
+  border: 0;
+  cursor: pointer;
+}
+a.body:hover,
+a.body:active {
+  color: #0000B6;
+  text-decoration: none;
+}
 h1 {
   display: block;
   font-size: 18px;
