@@ -124,6 +124,8 @@ div.footer-link {
 ul {
   min-width: 200px;
   max-width: 520px;
+  margin: 4px auto;
+  padding: 2px;
 }
 li {
   list-style-type: square;  
