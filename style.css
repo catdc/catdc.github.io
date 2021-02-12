@@ -89,7 +89,7 @@ a.general:active {
 h1 {
   display: block;
   font-size: 18px;
-  margin: 0 auto 8px auto;
+  margin: 8px auto 14px auto;
   vertical-align: middle;
   min-width: 530px;
   max-width: 1000px;
