@@ -121,3 +121,10 @@ div.footer-link {
   margin: 8px auto;
   padding: 0;
 }
+ul {
+  min-width: 200px;
+  max-width: 520px;
+}
+li {
+  list-style-type: square;  
+}
