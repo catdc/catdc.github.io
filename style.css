@@ -70,6 +70,11 @@ div.body {
   background-color: #FFFCED;
   border: 1px solid #FFF5BD;
 }
+div.body-inner {
+  padding: 0;
+  margin: 0;
+  width: 75%;
+}
 a.general,
 a.general:focus,
 a.general:focus-within,
