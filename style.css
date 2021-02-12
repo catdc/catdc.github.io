@@ -55,12 +55,16 @@ a.head-menu-link:visited {
   font-size: 17px;
   text-decoration: none;
   cursor: pointer;
-  transition: all 200ms ease 1ms;
+  transition: all 100ms ease 1ms;
 }
 a.head-menu-link:hover,
 a.head-menu-link:active {
   background-color: #23A3A9;
   color: #DEDEDE;
+  box-shadow: -2px -2px 2px #CECECE,
+              -3px -2px 2px #C9C9C9,
+              2px 2px 1px #CFCFCF,
+              3px 2px 1px #C0C0C0;
 }
 div.body {
   padding: 18px 6px;
